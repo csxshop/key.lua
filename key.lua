@@ -11,4 +11,5 @@ return {
     ["582b39df6c314402"] = "bank07",
     ["HWID"] = "nalin",
     ["0fb5839ac66a4fd2"] = "Kritbarto",
+    ["31aa103c48054a77"] = "papi",
 }

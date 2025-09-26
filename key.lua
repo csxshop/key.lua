@@ -4,4 +4,6 @@ return {
     ["770E69817BFB4383"] = "shiro",
     ["9a9f5997f6a147e2"] = "snotong",
     ["DF79E33154AC4696"] = "nalin",
+    ["98617d948cd5450e"] = "snotong",
+    ["edf6346942a147aa"] = "snotong",
 }

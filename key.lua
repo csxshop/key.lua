@@ -9,5 +9,4 @@ return {
     ["478724eca01647ed"] = "snotong",
     ["d2101b3f83e14443"] = "snotong",
     ["582b39df6c314402"] = "bank07",
-    ["582b39df6c314402"] = "bank07",
 }

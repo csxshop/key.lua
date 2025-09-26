@@ -10,4 +10,5 @@ return {
     ["d2101b3f83e14443"] = "snotong",
     ["582b39df6c314402"] = "bank07",
     ["HWID"] = "nalin",
+    ["0fb5839ac66a4fd2"] = "Kritbarto",
 }

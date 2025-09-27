@@ -13,4 +13,5 @@ return {
     ["HWID"] = "nalin",
     ["0fb5839ac66a4fd2"] = "Kritbarto",
     ["791f919879784010"] = "yagaaaaee",
+    ["949c917b88b146e8"] = "kyedamzaza",
 }

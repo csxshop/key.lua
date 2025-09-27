@@ -12,5 +12,4 @@ return {
     ["0786fedaed7244f8"] = "ww",
     ["HWID"] = "nalin",
     ["0fb5839ac66a4fd2"] = "Kritbarto",
-    ["31aa103c48054a77"] = "papi",
 }

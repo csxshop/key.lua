@@ -12,4 +12,5 @@ return {
     ["0786fedaed7244f8"] = "ww",
     ["HWID"] = "nalin",
     ["0fb5839ac66a4fd2"] = "Kritbarto",
+    ["791f919879784010"] = "yagaaaaee",
 }

@@ -11,7 +11,7 @@ return {
     ["582b39df6c314402"] = "bank07",
     ["7f50954d8ce944ec"] = "ww",
     ["HWID"] = "nalin",
-    ["0fb5839ac66a4fd2"] = "Kritbarto",
+    ["9FE9DA17A94840CB"] = "Kritbarto",
     ["791f919879784010"] = "yagaaaaee",
     ["54700cd3c9344ec9"] = "kyedamzaza",
     ["109b2c7953cd47be"] = "243910",

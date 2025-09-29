@@ -20,4 +20,5 @@ return {
     ["6589efbdeb134bb7"] = "piggy",
     ["a9b300c0042c4c40"] = "nom",
     ["4e5d11ebbca84cd2"] = "salmon",
+    ["4a051cb5745e4004"] = "goku",
 }

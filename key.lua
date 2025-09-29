@@ -9,7 +9,7 @@ return {
     ["478724eca01647ed"] = "snotong",
     ["d2101b3f83e14443"] = "snotong",
     ["582b39df6c314402"] = "bank07",
-    ["0786fedaed7244f8"] = "ww",
+    ["7f50954d8ce944ec"] = "ww",
     ["HWID"] = "nalin",
     ["0fb5839ac66a4fd2"] = "Kritbarto",
     ["791f919879784010"] = "yagaaaaee",
@@ -19,4 +19,5 @@ return {
     ["14f51117c178431e"] = "miellovegenji",
     ["6589efbdeb134bb7"] = "piggy",
     ["a9b300c0042c4c40"] = "nom",
+    ["4e5d11ebbca84cd2"] = "salmon",
 }

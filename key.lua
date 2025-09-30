@@ -23,4 +23,5 @@ return {
     ["4a051cb5745e4004"] = "goku",
     ["63d13cbf98cd47d7"] = "xBAR100z",
     ["c16f57cfa0734552"] = "snotong",
+    ["23c5d57b85a04889"] = "ch4mp",
 }

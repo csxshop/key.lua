@@ -24,4 +24,5 @@ return {
     ["63d13cbf98cd47d7"] = "xBAR100z",
     ["c16f57cfa0734552"] = "snotong",
     ["23c5d57b85a04889"] = "ch4mp",
+    ["0d59ebc765f14af0"] = "kxr",
 }

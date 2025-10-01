@@ -30,5 +30,5 @@ return {
     ["fbfff1e36b944e6c"] = "snotong",
     ["97551e33a25047b8"] = "icex",
     ["f84461894f034a63"] = "CSShop",
-    ["a9ca382a059e4544"] = "miumiu",
+    ["547818ad3f594a46"] = "miumiu",
 }

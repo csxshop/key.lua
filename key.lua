@@ -29,4 +29,5 @@ return {
     ["140a9996a1b94b75"] = "hoom",
     ["fbfff1e36b944e6c"] = "snotong",
     ["97551e33a25047b8"] = "icex",
+    ["f84461894f034a63"] = "CSShop",
 }

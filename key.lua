@@ -32,4 +32,5 @@ return {
     ["f84461894f034a63"] = "CSShop",
     ["f2c8828a83ae46e7"] = "CSShop",
     ["547818ad3f594a46"] = "miumiu",
+    ["5a4b846700f64ba1"] = "Hon",
 }

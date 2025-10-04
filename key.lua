@@ -43,4 +43,5 @@ return {
     ["3C119FEE698747E8"] = "SenTenZ",
     ["933c60670bcd4736"] = "ooo",
     ["154339e6141649cf"] = "Ajuu",
+    ["04AB552DC4AB4A01"] = "funyellow",
 }

@@ -44,7 +44,7 @@ return {
     ["3C119FEE698747E8"] = "SenTenZ",
     ["933c60670bcd4736"] = "ooo",
     ["154339e6141649cf"] = "Ajuu",
-    ["04AB552DC4AB4A01"] = "funyellow",
+    ["06acfefe348c4fbf"] = "funyellow",
     ["135d258cab914dcf"] = "adam",
     ["5D3DC0A313A843F2"] = "buildsamba",
     ["bb77cef09f8b4a06"] = "BASSITKMUTT",

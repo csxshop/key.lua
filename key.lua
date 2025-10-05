@@ -14,7 +14,7 @@ return {
     ["9FE9DA17A94840CB"] = "Kritbarto",
     ["791f919879784010"] = "yagaaaaee",
     ["54700cd3c9344ec9"] = "kyedamzaza",
-    ["109b2c7953cd47be"] = "243910",
+    ["ea9ea4d7a8314b2d"] = "243910",
     ["e225ec31e5ac437d"] = "haward",
     ["14f51117c178431e"] = "miellovegenji",
     ["6589efbdeb134bb7"] = "piggy",
@@ -53,7 +53,6 @@ return {
     ["870bded913df4e3f"] = "Bellasocute",
     ["ded09465210a4b63"] = "Bellasocute",
     ["384fb3d76cc1449e"] = "Manue11e",
-    ["ea9ea4d7a8314b2d"] = "BUNG",
     ["754df8376e1c4fc9"] = "Akaza",
     ["bf6cf94064bf43ae"] = "meime786",
 }

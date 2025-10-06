@@ -67,4 +67,7 @@ return {
     ["6e8e0bcdbc984128"] = "KIMBERY",
     ["a1139470a1be408e"] = "arm",
     ["00a82c6697bc4440"] = "kkk123",
+    ["8dd9bccbef474860"] = "dolsai4",
+    ["3295ce91a3ad463f"] = "dolsai4",
+    
 }

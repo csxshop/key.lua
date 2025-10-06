@@ -53,7 +53,7 @@ return {
     ["8ba7a2fb00004efa"] = "Bellasocute",
     ["870bded913df4e3f"] = "Bellasocute",
     ["ded09465210a4b63"] = "Bellasocute",
-    ["384fb3d76cc1449e"] = "Manue11e",
+    ["b2e423421ad74821"] = "Kennoi11",
     ["754df8376e1c4fc9"] = "Akaza",
     ["bf6cf94064bf43ae"] = "meime786",
     ["e6faa073f9fb476f"] = "Weewi",

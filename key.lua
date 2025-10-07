@@ -73,4 +73,7 @@ return {
     ["1302d1903087488b"] = "nnut",
     ["b4f79765917e489e"] = "babyaom",
     ["45202762545a4313"] = "RUN",
+    ["f093841333a346f9"] = "bobogaga",
+    ["f7ad8d5cab564d52"] = "bobogaga",
+    ["bcb911aa592f4fe8"] = "bobogaga",
 }

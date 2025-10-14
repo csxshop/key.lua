@@ -31,7 +31,7 @@ return {
     ["6ae03cce08ca4deb"] = "eiei",
     ["140a9996a1b94b75"] = "hoom",
     ["97551e33a25047b8"] = "icex",
-    ["f84461894f034a63"] = "CSShop",
+    ["ca422eaba3434296"] = "CSShop",
     ["f2c8828a83ae46e7"] = "CSShop",
     ["547818ad3f594a46"] = "miumiu",
     ["5a4b846700f64ba1"] = "Hon",

@@ -102,6 +102,6 @@ return {
     ["4c9fa81ca3524db2"] = "bau",
     ["02367ab0f27d4115"] = "Kxnor",
     ["89c50586cbcd40b9"] = "uyou",
-    ["485ca51364f3426f"] = "Gustic",
+    ["d314f2d148644db1"] = "Gustic",
     ["7cb6324095de429b"] = "Kiattisak22",
 }

@@ -105,4 +105,6 @@ return {
     ["d314f2d148644db1"] = "Gustic",
     ["7cb6324095de429b"] = "Kiattisak22",
     ["8ca4d105f79c4cf0"] = "vit36085",
+    ["93ea6c5b59354b9d"] = "JN96",
+    ["47c5b39f710f4120"] = "JN96",
 }

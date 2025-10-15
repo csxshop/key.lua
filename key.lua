@@ -24,7 +24,7 @@ return {
     ["a9b300c0042c4c40"] = "nom",
     ["4e5d11ebbca84cd2"] = "salmon",
     ["44b8865699ad4d65"] = "goku",
-    ["63d13cbf98cd47d7"] = "xBAR100z",
+    ["6f8c9168ed2847a0"] = "xBAR100z",
     ["c16f57cfa0734552"] = "snotong",
     ["23c5d57b85a04889"] = "ch4mp",
     ["0d59ebc765f14af0"] = "kxr",

@@ -27,7 +27,7 @@ return {
     ["6f8c9168ed2847a0"] = "xBAR100z",
     ["c16f57cfa0734552"] = "snotong",
     ["23c5d57b85a04889"] = "ch4mp",
-    ["0d59ebc765f14af0"] = "kxr",
+    ["8cbe9eae41a64412"] = "kxr",
     ["6ae03cce08ca4deb"] = "eiei",
     ["140a9996a1b94b75"] = "hoom",
     ["97551e33a25047b8"] = "icex",

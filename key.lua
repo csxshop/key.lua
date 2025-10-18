@@ -123,4 +123,5 @@ return {
     ["7f8837e5aa3848cc"] = "BbJJK4UbY9",
     ["8ad3a2e254f24591"] = "P@ssW0rd",
     ["d50ca03ed4524f74"] = "Kiattisak22",
+    ["fb61159c2a1f45bf"] = "JN96",
 }

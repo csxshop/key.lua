@@ -54,7 +54,7 @@ return {
     ["f4d6f2338e66412d"] = "Bellasocute",
     ["870bded913df4e3f"] = "Bellasocute",
     ["4bcfaa937794461f"] = "Bellasocute",
-    ["b2e423421ad74821"] = "Kennoi11",
+    ["D8E767C29B3B4538"] = "Kennoi11",
     ["7611c8b8332c4f7a"] = "Akaza",
     ["bf6cf94064bf43ae"] = "meime786",
     ["e6faa073f9fb476f"] = "Weewi",

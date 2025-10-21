@@ -138,4 +138,6 @@ return {
     ["23e98e9393de4f24"] = "Yoshintj",
     ["1101caded3f847aa"] = "Yoshintj",
     ["82fff17466714992"] = "9800",
+    ["d178a946ebef4ddc"] = "9800",
+    ["265d41f5cded4b4f"] = "9800",
 }

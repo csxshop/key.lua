@@ -162,4 +162,5 @@ return {
     ["49de01fad4ad45ce"] = "CANADA",
     ["8238a9ea468f4336"] = "joker",
     ["e4ae33c0c40f4396"] = "Moon",
+    ["0CDE8EAF2F814B04"] = "beapee",
 }

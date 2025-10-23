@@ -159,5 +159,6 @@ return {
     ["e4e73187851d4691"] = "joker",
     ["e56a3109b07f4818"] = "GuKorn99",
     ["dff6fe6fb4a54d63"] = "Judy",
-    
+    ["49de01fad4ad45ce"] = "CANADA",
+    ["8238a9ea468f4336"] = "joker",
 }

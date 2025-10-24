@@ -163,4 +163,6 @@ return {
     ["8238a9ea468f4336"] = "joker",
     ["e4ae33c0c40f4396"] = "Moon",
     ["0CDE8EAF2F814B04"] = "beapee",
+    ["b6ea3489c8ea4151"] = "hamtaro",
+    ["d9fd8dfc581a4579"] = "hamtaro",
 }

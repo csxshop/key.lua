@@ -129,7 +129,7 @@ return {
     ["CCF06FD3A7FD42CE"] = "JN96",
     ["3CB55F7B286B4FDD"] = "fifa",
     ["9ec1590914a545e0"] = "beapee",
-    ["34e62e1ae5964afa"] = "yoo2027",
+    ["27a9083726d34737"] = "yoo2027",
     ["758f82e87d1b4cb9"] = "JN96",
     ["e337baec0b494d14"] = "JN96",
     ["a2c66987d2ee48ed"] = "Bon122542",

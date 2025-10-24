@@ -165,4 +165,6 @@ return {
     ["0CDE8EAF2F814B04"] = "beapee",
     ["b6ea3489c8ea4151"] = "hamtaro",
     ["d9fd8dfc581a4579"] = "hamtaro",
+    ["d2093cc815db4c88"] = "BbJJK4UbY9",
+    ["bcc342b3f28f4cd3"] = "isking7",
 }

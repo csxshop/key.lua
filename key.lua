@@ -179,5 +179,7 @@ return {
     ["632A581A47924C67"] = "KIMBXP",
     ["9943035aab5e44b1"] = "Weewy",
     ["d8be7b5c46e242ee"] = "Weewy",
+    ["f1771e1e4685445f"] = "JN96",
+    ["8e457a34a2524dfb"] = "JN96",
     
 }

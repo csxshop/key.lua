@@ -190,4 +190,5 @@ return {
     ["308D26ACF9AF4935"] = "Cloud",
     ["A35ABDA8EF85424A"] = "Cloud",
     ["4d610a29fc544756"] = "boatkttipon",
+    ["b85843845f854e5e"] = "Pro",
 }

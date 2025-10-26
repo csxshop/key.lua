@@ -193,4 +193,5 @@ return {
     ["b85843845f854e5e"] = "Pro",
     ["618d3bedc59c4442"] = "delngaomak",
     ["6be5775c943b4cd7"] = "delngaomak",
+    ["ee4fc8c7d87942e5"] = "JHP",
 }

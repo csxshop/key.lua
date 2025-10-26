@@ -186,4 +186,5 @@ return {
     ["699f9c4a902e456f"] = "RES",
     ["89040f5326b549d0"] = "withcutiekitty",
     ["d0ccd93cc01b44cf"] = "Diana",
+    ["8b35b897d1d64642"] = "CANADA02",
 }

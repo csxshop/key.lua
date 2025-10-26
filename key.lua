@@ -183,5 +183,5 @@ return {
     ["8e457a34a2524dfb"] = "JN96",
     ["54ffc938c8ed4ea6"] = "carrot",
     ["02004b6a6a02498c"] = "hanami",
-    
+    ["699f9c4a902e456f"] = "RES",
 }

@@ -188,4 +188,5 @@ return {
     ["d0ccd93cc01b44cf"] = "Diana",
     ["8b35b897d1d64642"] = "CANADA02",
     ["308D26ACF9AF4935"] = "Cloud",
+    ["A35ABDA8EF85424A"] = "Cloud",
 }

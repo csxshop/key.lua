@@ -1,7 +1,5 @@
 return {
     ["HWID"] = "shiro",
-    ["-"] = "haward",
-    ["-"] = "Kritbarto",
     ["902856702afc4e18"] = "Tiger1234",
     ["770E69817BFB4383"] = "shiro",
     ["DF79E33154AC4696"] = "nalin",

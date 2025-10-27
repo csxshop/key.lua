@@ -197,4 +197,5 @@ return {
     ["ac5a92de8de54d04"] = "lemondee", -- 27/11/2025
     ["76143F9AEED74F74"] = "lovekonggo", -- 27/11/2025
     ["56163a672f9f433d"] = "synox1", -- 27/11/2025
+    ["FD3ACA107D8D4CAF"] = "haward", -- 27/11/2025
 }

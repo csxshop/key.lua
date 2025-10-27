@@ -194,6 +194,6 @@ return {
     ["e1ece493eaa84138"] = "Prite1832", -- 27/11/2025
     ["4fb3154f46cf47c9"] = "Prite1832",  -- 27/11/2025
     ["3bb31d83ab594afd"] = "KRIT10", -- 27/11/2025
-    ["ac5a92de8de54d04"] = "lemondee",
-    ["76143F9AEED74F74"] = "lovekonggo", -- 27/11/2025 tk 470 / 799327276603801640
+    ["ac5a92de8de54d04"] = "lemondee", -- 27/11/2025
+    ["76143F9AEED74F74"] = "lovekonggo", -- 27/11/2025
 }

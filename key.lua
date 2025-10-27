@@ -191,4 +191,6 @@ return {
     ["86d91194a52a44fe"] = "AloneFirst20",
     ["f65fadc2a3694554"] = "AloneFirst20",
     ["4da77ecefd274856"] = "morgan21",
+    ["e1ece493eaa84138"] = "Prite1832",
+    ["-"] = "Prite1832",
 }

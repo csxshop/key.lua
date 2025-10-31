@@ -217,5 +217,6 @@ return {
     ["ae546afa949b4573"] = "Japan", -- 30/11/2025
     ["431b6c0c204c4d47"] = "Japan", -- 30/11/2025
     ["52fefcf37a7d440e"] = "Kajeaw", -- 30/11/2025
+    ["a24ae9aced7c4d1e"] = "skyxanxusz", -- 30/11/2025
     
 }

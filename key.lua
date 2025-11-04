@@ -235,4 +235,5 @@ return {
     ["a88caf3b21444c8f"] = "beme2", -- 3/12/2025
     ["b2f6b0fef2ff4785"] = "Bbshot", -- 3/12/2025
     ["f024d0eb27a744f7"] = "Txler", -- 4/12/2025
+    ["afac078ccdaf4282"] = "bebbie", -- 11/11/2025
 }

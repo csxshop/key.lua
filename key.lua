@@ -200,5 +200,6 @@ return {
     ["1AD8C3FD88ED40FD"] = "kuposcan", -- 14/11/2025
     ["612fe2bcb0904101"] = "runrabob", -- 7/12/2025
     ["38dabed8eb8340b0"] = "winter666", -- 8/12/2025
+    ["5080c8e0ab884f0b"] = "Chopper", -- 8/12/2025
     
 }

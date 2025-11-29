@@ -8,7 +8,6 @@ return {
     ["80cca9056bb846f5"] = "BunnyPop", -- ถาวร
     ["520083FB1B4F4F0E"] = "auto", -- ถาวร
     ["e6faa073f9fb476f"] = "Weewi", -- ถาวร
-    ["7285FD4869ED4F18"] = "kavocados", -- 29/11/2025
     ["b1f9305ffbad4aae"] = "JN96", -- 30/11/2025
     ["c4ad8a4a98454fc6"] = "kxnor", -- 30/11/2025
     ["6ad0bb841855453a"] = "HonCare", -- 30/11/2025
